@@ -1,7 +1,7 @@
 ## Olá! Eu sou Milton Alves 
 
-- 💻 Hoje Trabalhando com Front-end
-- 🌱 Estudando Electron
+- 💻 Hoje Trabalhando com automação/web com python.
+- 🌱 Python 
 - 📧 Contate-me no email: contato.milton.alves@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -12,11 +12,10 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Milton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Milton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Milton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Milton-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Milton-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Milton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Milton-Django" height="30" width="40" src="https://www.openapp.ie/wp-content/uploads/2015/03/Django.png">
   <img align="center" alt="Milton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Milton-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
